@@ -24,3 +24,9 @@ https://github.com/AliRahimi97/puzzle-baz/releases/download/PuzzleBazGame/puzzle
 
 and also this link :                                                                                                                                             
 https://cafebazaar.ir/app/com.example.puzzlebaz
+
+# ScreenShots
+
+![Screenshot_2022-06-02-15-08-33-350_com example puzzlebaz](https://user-images.githubusercontent.com/60100330/174289476-5aba9549-8e77-490a-8325-0628e76be85c.jpg)
+![Screenshot_2022-06-02-15-08-43-177_com example puzzlebaz](https://user-images.githubusercontent.com/60100330/174289517-355deb28-7c14-4564-9fb5-cbaa261c1860.jpg)
+
