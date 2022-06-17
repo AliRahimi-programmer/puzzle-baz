@@ -4,14 +4,10 @@ Puzzle baz for kids. This app is a 30-step puzzle game that makes fun moments fo
 
 # Features
  
-•	Music settings that you can turn on or off whenever you want                                                                                                    
-•	See the original image to help put the puzzle pieces together
-
-•	Attractive sound effects
-
-•	Attractive user interface
-
-•	Game time to increase excitement
-
-•	Ability to record points after each step
+•	Music settings that you can turn on or off whenever you want                                                                                                   
+•	See the original image to help put the puzzle pieces together                                                                                                 
+•	Attractive sound effects                                                                                                                                       
+•	Attractive user interface                                                                                                                                     
+•	Game time to increase excitement                                                                                                                               
+•	Ability to record points after each step                                                                                                                       
 
