@@ -9,5 +9,18 @@ Puzzle baz for kids. This app is a 30-step puzzle game that makes fun moments fo
 •	Attractive sound effects                                                                                                                                       
 •	Attractive user interface                                                                                                                                     
 •	Game time to increase excitement                                                                                                                               
-•	Ability to record points after each step                                                                                                                       
+•	Ability to record points after each step 
 
+# Tools used
+
+•	Android Studio                                                                                                                                                 
+•	SQLite Database                                                                                                                                               
+•	Adnroid SDK 29 
+
+# How to download and install?
+
+You can download and install this application from the below link:                                                                                               
+https://github.com/AliRahimi97/puzzle-baz/releases/download/PuzzleBazGame/puzzle.baz.apk
+
+and also this link :                                                                                                                                             
+https://cafebazaar.ir/app/com.example.puzzlebaz
