@@ -1,3 +1,5 @@
+![Screenshot_2022-06-02-15-08-52-133_com example puzzlebaz](https://user-images.githubusercontent.com/60100330/174289623-9a09e944-75e0-4c0d-be8b-819dd954dfc2.jpg)
+![Screenshot_2022-06-02-15-09-04-800_com example puzzlebaz](https://user-images.githubusercontent.com/60100330/174289635-b126424b-f824-46f0-a088-0e3067ccf399.jpg)
 # About puzzle-baz
 
 Puzzle baz for kids. This app is a 30-step puzzle game that makes fun moments for kids. At every step, increase your accuracy so that you can win.
