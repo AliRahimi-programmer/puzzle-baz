@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="puzzlebaz.example.puzzlebaz.step_game.gameActivity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:weightSum="6">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+      <TextView
+          android:id="@+id/score"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="25dp"
+          android:textColor="#FFEB3B"
+          android:layout_alignParentRight="true"
+          android:fontFamily="@font/gamefont"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="your score"
+          android:textSize="25dp"
+          android:textColor="#FFEB3B"
+          android:layout_alignParentLeft="true"
+          android:fontFamily="@font/gamefont"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4.8">
+
+      <GridView
+          android:id="@+id/gridView"
+          android:layout_width="wrap_content"
+          android:layout_height="match_parent"
+          android:layout_alignParentBottom="true"
+          android:columnWidth="90dp"
+          android:gravity="center"
+          android:horizontalSpacing="10dp"
+          android:numColumns="auto_fit"
+          android:stretchMode="columnWidth"
+          android:verticalSpacing="10dp"
+          android:layout_marginTop="20dp"/>
+
+    </RelativeLayout>
+
+  </LinearLayout>
+
+
+</LinearLayout>
