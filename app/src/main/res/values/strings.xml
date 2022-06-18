@@ -5,61 +5,10 @@
     <string name="play_button">Start a New Game</string>
     <string name="option_button">Options</string>
     <string name="exit_button">Exit Game</string>
-    <!-- Activity Match Game -->
-    <string name="points_label">Points Earned: </string>
-    <string name="mistake_label">Mistakes Remaining: </string>
-    <string name="match_label">Matches Made: </string>
-    <string name="timer_label">Time Remaining</string>
-    <string name="timer_value_hard">30</string>
-    <string name="timer_value_medium">60</string>
-    <string name="timer_value_easy">90</string>
-    <string name="match_value">0</string>
-    <string name="point_value">0</string>
-    <string name="mistake_value_hard">3</string>
-    <string name="mistake_value_medium">6</string>
-    <string name="mistake_value_easy">9</string>
-    <!-- Game Over strings -->
-    <string name="game_over_title">Game Over!</string>
-    <string name="game_over_time">You ran out of time!</string>
-    <string name="game_over_mistakes">You made too many mistakes!</string>
-    <string name="game_over_victory">You won! Congratulations!</string>
-    <string name="game_over_positive_button">OK</string>
-    <string name="title_activity_options">Options</string>
-    <!-- Activity Options -->
-    <string name="game_difficulty">Game Difficulty </string>
-    <string name="easy">Easy</string>
-    <string name="medium">Medium</string>
-    <string name="hard">Hard</string>
-    <string name="shapes_allowed">Shapes Allowed </string>
-    <string name="colors_allowed">Colors Allowed </string>
-    <!-- Shape Names -->
-    <string name="circle">Circle</string>
-    <string name="cross">Cross</string>
-    <string name="diamond">Diamond</string>
-    <string name="heart">Heart</string>
-    <string name="hexagon">Hexagon</string>
-    <string name="octagon">Octagon</string>
-    <string name="square">Square</string>
-    <string name="star">Star</string>
-    <string name="trapezoid">Trapezoid</string>
-    <string name="triangle">Triangle</string>
-    <!-- Color Names -->
-    <string name="black">Black</string>
-    <string name="blue">Blue</string>
-    <string name="brown">Brown</string>
-    <string name="clear">Clear</string>
-    <string name="green">Green</string>
-    <string name="grey">Grey</string>
-    <string name="orange">Orange</string>
-    <string name="purple">Purple</string>
-    <string name="red">Red</string>
-    <string name="yellow">Yellow</string>
+
     <!-- Option Buttons -->
     <string name="save_button">Save Options</string>
     <string name="cancel_button">Cancel</string>
 
     <string name="exit">do you want to exit ?</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
