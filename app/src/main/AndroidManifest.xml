@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.puzzlebaz"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/puzzlebaz"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+
+        android:roundIcon="@mipmap/puzzlebaz_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:remove="android:appComponentFactory">
+
+        <activity
+            android:name="puzzlebaz.example.puzzlebaz.main.MainActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+        <activity
+            android:name="puzzlebaz.example.puzzlebaz.main.LoadingPage"
+            android:screenOrientation="landscape"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="puzzlebaz.example.puzzlebaz.step_game.GameActivityTransparent"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+        <activity
+            android:name="puzzlebaz.example.puzzlebaz.step_game.MainActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+        <activity
+            android:name="puzzlebaz.example.puzzlebaz.step_game.gameActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/TransparentAppCompatTheme" />
+
+        <service android:name="puzzlebaz.example.puzzlebaz.CustomClasses.service" />
+    </application>
+
+</manifest>
